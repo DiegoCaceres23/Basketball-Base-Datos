@@ -1,0 +1,33 @@
+[{
+  "_id": 9,
+  "equipo1_result": 45,
+  "equipo2_result": 40
+},
+{
+  "_id": {
+    "$oid": "655a76a9a6460f25e0781b11"
+  },
+  "equipo1_result": 45,
+  "equipo2_result": 30
+},
+{
+  "_id": {
+    "$oid": "655a76c4a6460f25e0781b12"
+  },
+  "equipo1_result": 40,
+  "equipo2_result": 42
+},
+{
+  "_id": {
+    "$oid": "655a76d2a6460f25e0781b13"
+  },
+  "equipo1_result": 56,
+  "equipo2_result": 50
+},
+{
+  "_id": {
+    "$oid": "655a76dca6460f25e0781b14"
+  },
+  "equipo1_result": 30,
+  "equipo2_result": 50
+}]

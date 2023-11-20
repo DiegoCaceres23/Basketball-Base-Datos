@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "655997ed22efe9e5ecf5817a"
+  },
+  "id_arbitro": 8876,
+  "name_arbitro": "andres",
+  "apellido_arbitro": "manosalva",
+  "edad_arbitro": 34
+},
+{
+  "_id": {
+    "$oid": "655a5feea6460f25e0781acd"
+  },
+  "id_arbitro": 3334,
+  "name_arbitro": "diego",
+  "apellido_arbitro": "martinez",
+  "edad_arbitro": 28
+},
+{
+  "_id": {
+    "$oid": "655a70c0a6460f25e0781ace"
+  },
+  "id_arbitro": 34321,
+  "name_arbitro": "camila",
+  "apellido_arbitro": "mesa",
+  "edad_arbitro": 33
+},
+{
+  "_id": {
+    "$oid": "655a7152a6460f25e0781acf"
+  },
+  "id_arbitro": 8654,
+  "name_arbitro": "pablo",
+  "apellido_arbitro": "ponguta",
+  "edad_arbitro": 26
+},
+{
+  "_id": {
+    "$oid": "655a716ea6460f25e0781ad0"
+  },
+  "id_arbitro": 995,
+  "name_arbitro": "tomas",
+  "apellido_arbitro": "flores",
+  "edad_arbitro": 36
+}]

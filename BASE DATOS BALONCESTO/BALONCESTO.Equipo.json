@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6559984d22efe9e5ecf5817d"
+  },
+  "id": 57,
+  "name": "aguilas",
+  "ciudad": "bucaramanga"
+},
+{
+  "_id": {
+    "$oid": "655a7519a6460f25e0781af7"
+  },
+  "id": 58,
+  "name": "titans",
+  "ciudad": "duitama"
+},
+{
+  "_id": {
+    "$oid": "655a7533a6460f25e0781afa"
+  },
+  "id": 59,
+  "name": "embajada",
+  "ciudad": "bogota"
+},
+{
+  "_id": {
+    "$oid": "655a7554a6460f25e0781afd"
+  },
+  "id": 60,
+  "name": "gutbot",
+  "ciudad": "barranquilla"
+},
+{
+  "_id": {
+    "$oid": "655a7576a6460f25e0781b00"
+  },
+  "id": 61,
+  "name": "leopardos",
+  "ciudad": "cucuta"
+}]

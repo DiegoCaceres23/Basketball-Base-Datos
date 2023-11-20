@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65599acf22efe9e5ecf58180"
+  },
+  "id": 1,
+  "equipo_1": "aguilas",
+  "equipo_2": "titans",
+  "fecha": "2023-11-21",
+  "arbitro": "andres",
+  "resultado": "aguilas 00 - 00 titans "
+},
+{
+  "_id": {
+    "$oid": "655a72efa6460f25e0781adb"
+  },
+  "id": 2,
+  "equipo_1": "leopardos",
+  "equipo_2": "embajada",
+  "fecha": "2023-11-23",
+  "arbitro": "camila",
+  "resultado": "leopardos 00 - 00 embajada "
+},
+{
+  "_id": {
+    "$oid": "655a7325a6460f25e0781ade"
+  },
+  "id": 3,
+  "equipo_1": "leopardos",
+  "equipo_2": "titans",
+  "fecha": "2023-11-28",
+  "arbitro": "diego",
+  "resultado": "leopardos 00 - 00 titans "
+},
+{
+  "_id": {
+    "$oid": "655a737ca6460f25e0781ae1"
+  },
+  "id": 4,
+  "equipo_1": "gutbot",
+  "equipo_2": "embajada",
+  "fecha": "2023-12-01",
+  "arbitro": "pablo",
+  "resultado": "gutbot 00 - 00 embajada "
+},
+{
+  "_id": {
+    "$oid": "655a73bda6460f25e0781ae4"
+  },
+  "id": 5,
+  "equipo_1": "leopardos",
+  "equipo_2": "gutbot",
+  "fecha": "2023-12-05",
+  "arbitro": "tomas",
+  "resultado": "lions 00 - 00 gutbot "
+}]

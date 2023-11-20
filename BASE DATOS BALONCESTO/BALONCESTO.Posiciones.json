@@ -1,0 +1,43 @@
+[{
+  "_id": 11,
+  "equipo": "aguilas",
+  "puntos": 18,
+  "ganados": 6,
+  "perdidios": 1
+},
+{
+  "_id": {
+    "$oid": "655a75dda6460f25e0781b04"
+  },
+  "equipo": "titans",
+  "puntos": 21,
+  "ganados": 7,
+  "perdidios": 0
+},
+{
+  "_id": {
+    "$oid": "655a7609a6460f25e0781b07"
+  },
+  "equipo": "embajada",
+  "puntos": 9,
+  "ganados": 3,
+  "perdidios": 4
+},
+{
+  "_id": {
+    "$oid": "655a762da6460f25e0781b0a"
+  },
+  "equipo": "gutbot",
+  "puntos": 15,
+  "ganados": 5,
+  "perdidios": 2
+},
+{
+  "_id": {
+    "$oid": "655a764da6460f25e0781b0d"
+  },
+  "equipo": "leopardos",
+  "puntos": 3,
+  "ganados": 1,
+  "perdidios": 6
+}]

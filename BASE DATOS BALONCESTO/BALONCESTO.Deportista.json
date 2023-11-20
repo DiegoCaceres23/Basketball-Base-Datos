@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "655996aa22efe9e5ecf58174"
+  },
+  "id_deprotista": 1002345,
+  "name_deportista": "gabriel",
+  "apellido_deportista": "diaz",
+  "edad_deportista": 25,
+  "name_equipo": "aguilas",
+  "posicion": "alero"
+},
+{
+  "_id": {
+    "$oid": "655a71f5a6460f25e0781ad2"
+  },
+  "id_deprotista": 1095677,
+  "name_deportista": "armando",
+  "apellido_deportista": "morales",
+  "edad_deportista": 18,
+  "name_equipo": "aguilas",
+  "posicion": "pivot"
+},
+{
+  "_id": {
+    "$oid": "655a724ea6460f25e0781ad3"
+  },
+  "id_deprotista": 9991234,
+  "name_deportista": "fransico",
+  "apellido_deportista": "peralta",
+  "edad_deportista": 22,
+  "name_equipo": "aguilas",
+  "posicion": "escolta"
+},
+{
+  "_id": {
+    "$oid": "655a727ba6460f25e0781ad6"
+  },
+  "id_deprotista": 112435,
+  "name_deportista": "alejandro",
+  "apellido_deportista": "caceres",
+  "edad_deportista": 23,
+  "name_equipo": "titans",
+  "posicion": "alero"
+},
+{
+  "_id": {
+    "$oid": "655a729ea6460f25e0781ad7"
+  },
+  "id_deprotista": 100431,
+  "name_deportista": "brayan",
+  "apellido_deportista": "gonzalez",
+  "edad_deportista": 22,
+  "name_equipo": "titans",
+  "posicion": "pivot"
+}]

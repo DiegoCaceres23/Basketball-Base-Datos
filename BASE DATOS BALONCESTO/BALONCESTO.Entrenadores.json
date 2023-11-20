@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6559974f22efe9e5ecf58177"
+  },
+  "id_entrenador": 22234,
+  "name_entrenador": "camilo",
+  "apellido_entrenador": "escobar",
+  "edad_entrenador": 55,
+  "equipo_entrenador": "aguilas"
+},
+{
+  "_id": {
+    "$oid": "655a73eda6460f25e0781ae8"
+  },
+  "id_entrenador": 44567,
+  "name_entrenador": "maria",
+  "apellido_entrenador": "diaz",
+  "edad_entrenador": 39,
+  "equipo_entrenador": "titans"
+},
+{
+  "_id": {
+    "$oid": "655a7436a6460f25e0781aeb"
+  },
+  "id_entrenador": 119921,
+  "name_entrenador": "orlando",
+  "apellido_entrenador": "gutierrez",
+  "edad_entrenador": 45,
+  "equipo_entrenador": "embajada"
+},
+{
+  "_id": {
+    "$oid": "655a7485a6460f25e0781aee"
+  },
+  "id_entrenador": 652892,
+  "name_entrenador": "juan",
+  "apellido_entrenador": "ballesteros",
+  "edad_entrenador": 31,
+  "equipo_entrenador": "gutbot"
+},
+{
+  "_id": {
+    "$oid": "655a74e1a6460f25e0781af3"
+  },
+  "id_entrenador": 100852,
+  "name_entrenador": "laura",
+  "apellido_entrenador": "reyes",
+  "edad_entrenador": 28,
+  "equipo_entrenador": "leopardos"
+}]
